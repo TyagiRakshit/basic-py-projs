@@ -1,6 +1,6 @@
-fms\
-JARVIS\
-pythontopics\
-qr_gen_proj\
+fms/
+JARVIS/
+pythontopics/
+qr_gen_proj/
 __pycache__/
 *.pyc
