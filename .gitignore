@@ -1,6 +1,5 @@
-fms/
-JARVIS/
-pythontopics/
+
+../pythontopics/
 qr_gen_proj/
 __pycache__/
 *.pyc

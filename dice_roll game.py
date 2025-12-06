@@ -1,4 +1,5 @@
 # this is 1st basic project of python
+''' in  this project we are just rolling dice'''
 import random
 user = input("enter ur name:\n")
 def play(a):
