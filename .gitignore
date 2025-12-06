@@ -3,3 +3,5 @@
 qr_gen_proj/
 __pycache__/
 *.pyc
+JARVIS/
+fms/
